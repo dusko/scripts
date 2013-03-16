@@ -11,7 +11,7 @@
 #
 #	Because of nature of "snap list" output we can't find snapshots older than 1 year!
 #
-#   Author: dusan.sovi
+#   Author: dusan.sovic
 #
 
 # Example of Output to parse: sudo /usr/bin/rsh poseidon snap list
