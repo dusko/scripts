@@ -6,7 +6,7 @@
 #		aging-days - find snapshots older than X days (Optional, default value is 30 days)
 #
 #	Return:
-#	0 - at least one old napshot found
+#	0 - at least one old snapshot found
 #	1 - no old snapshoths found
 #
 #	Because of nature of "snap list" output we can't find snapshots older than 1 year!
